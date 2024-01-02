@@ -1,8 +1,7 @@
 # A list of MC Emojis
-Minecraft supports only a subset of emoji (old unicode ones) but you can copy-paste these into the game to get them!
-To my knowledge, these work in MC Java 1.16+ and in Bedrock/MCPE.
+### Minecraft supports only a subset of emoji (old unicode ones) but you can copy-paste these into the game to get them!
+### To my knowledge, these work in MC Java 1.16+ and in Bedrock/MCPE.
 
-### list 
 
 ☺ Smiling Face
 
