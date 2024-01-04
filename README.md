@@ -292,8 +292,6 @@ Asterisk
 
 ♆ Neptune
 
-# Hash Sign
-
 ♃ Jupiter
 
 ♩ Quarter Note
